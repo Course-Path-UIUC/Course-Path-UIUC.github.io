@@ -63,4 +63,6 @@ const MOCK = [
     "name": "Machine Learning for Bioinformatics",
     "prereqs": ["CS 446", "CS 466"]
   },
-]
+];
+
+export default MOCK;
