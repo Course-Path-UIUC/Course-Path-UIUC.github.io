@@ -23,7 +23,25 @@ const CourseSelector = () => {
     setSelectedOptions(newValue);
   };
 
+  const BTN_CLASSES = [
+    'cursor-pointer',
+    'rounded-md',
+    'bg-blue-900',
+    'px-3.5',
+    'py-2.5',
+    'font-semibold',
+    'text-white',
+    'shadow-xs',
+    'hover:bg-blue-800',
+    'focus-visible:outline-2',
+    'focus-visible:outline-offset-2',
+    'focus-visible:outline-blue-900',
+    'dark:bg-blue-600',
+    'dark:hover:bg-blue-700'
+  ]
+
   return (
+    <>
     <Select
       required
       isMulti
@@ -39,7 +57,10 @@ const CourseSelector = () => {
       classNamePrefix='select'
       menuIsOpen={true}
       styles={customStyles}
+      aria-label='Select courses'
     />
+    <button id='submit' type='button' className={BTN_CLASSES.join(' ')}>Submit</button>
+    </>
   );
 }
 
