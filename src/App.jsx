@@ -1,5 +1,5 @@
 import './style.css'
-import CourseSelector from './CourseSelector';
+import Form from './Form';
 
 const App = () => {
   return (
@@ -11,7 +11,7 @@ const App = () => {
         <p className='text-center text-balance text-slate-950 dark:text-slate-300'>
           Course path applies topological graph sorting to a list of classes to display them in an order that satisfies prerequisites.
         </p>
-        <CourseSelector />
+        <Form />
       </main>
       <footer className='text-center p-8 bg-slate-200 dark:bg-slate-800'>
         Made with 💙 by: Aastha - Daniel - Kristin
