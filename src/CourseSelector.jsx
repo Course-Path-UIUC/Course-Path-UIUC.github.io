@@ -1,6 +1,5 @@
 import { useState } from 'react';
-import Select from 'react-select'
-import MOCK from './mock-data.js'
+import Select from 'react-select';
 
 const classNames = {
   menu: (state) => 'dark:outline dark:outline-slate-500'
@@ -16,37 +15,19 @@ const customStyles = {
   }
 };
 
-const CourseSelector = () => {
+const CourseSelector = ({ courses = [] }) => {
   const [selectedOptions, setSelectedOptions] = useState([]);
 
   const handleChange = (newValue) => {
     setSelectedOptions(newValue);
   };
 
-  const BTN_CLASSES = [
-    'cursor-pointer',
-    'rounded-md',
-    'bg-blue-900',
-    'px-3.5',
-    'py-2.5',
-    'font-semibold',
-    'text-white',
-    'shadow-xs',
-    'hover:bg-blue-800',
-    'focus-visible:outline-2',
-    'focus-visible:outline-offset-2',
-    'focus-visible:outline-blue-900',
-    'dark:bg-blue-600',
-    'dark:hover:bg-blue-700'
-  ]
-
   return (
-    <>
     <Select
       required
       isMulti
       name='course-select'
-      options={MOCK.map(c => ({ value: c.id, label: `${c.id} ${c.name}` }))}
+      options={courses}
       value={selectedOptions}
       onChange={handleChange}
       isOptionDisabled={
@@ -59,8 +40,6 @@ const CourseSelector = () => {
       styles={customStyles}
       aria-label='Select courses'
     />
-    <button id='submit' type='button' className={BTN_CLASSES.join(' ')}>Submit</button>
-    </>
   );
 }
 
