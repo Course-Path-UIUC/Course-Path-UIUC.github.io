@@ -4,7 +4,7 @@ import Form from './Form';
 const App = () => {
   return (
     <>
-      <main className='p-8'>
+      <main className='mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8'>
         <h1 className='text-center text-4xl font-medium tracking-wide text-blue-900 sm:text-5xl dark:text-blue-50'>
           Course Path
         </h1>

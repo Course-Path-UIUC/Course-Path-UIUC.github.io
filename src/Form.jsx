@@ -12,17 +12,19 @@ const Form = () => {
 
     const formData = new FormData(event.target);
 
-    // Send formData.getAll('course-select') to Kahn's algorithm
-    // Maybe implement Kahn's right here ??
     setSelectedCourses(formData.getAll('course-select'))
+
+    // @TODO Send formData.getAll('course-select') to Kahn's algorithm
   };
 
   const BTN_CLASSES = [
+    'mt-2',
+    'mb-6',
+    'px-3.5',
+    'py-2.5',
     'cursor-pointer',
     'rounded-md',
     'bg-blue-900',
-    'px-3.5',
-    'py-2.5',
     'font-semibold',
     'text-white',
     'shadow-xs',
