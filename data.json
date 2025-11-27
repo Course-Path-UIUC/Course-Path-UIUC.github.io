@@ -10,9 +10,7 @@
         "Course Code Space": "CS 101",
         "Course Title": "Intro Computing: Engrg & Sci",
         "Prerequisites": [
-            [
-                "Calculus I"
-            ]
+            "Calculus I"
         ]
     },
     "CS 102": {
@@ -26,9 +24,7 @@
         "Course Code Space": "CS 105",
         "Course Title": "Intro Computing: Non-Tech",
         "Prerequisites": [
-            [
-                "MATH 112"
-            ]
+            "MATH 112"
         ]
     },
     "CS 107": {
@@ -42,9 +38,7 @@
         "Course Code Space": "CS 124",
         "Course Title": "Introduction to Computer Science I",
         "Prerequisites": [
-            [
-                "MATH 112"
-            ]
+            "MATH 112"
         ]
     },
     "CS 125": {
@@ -52,9 +46,7 @@
         "Course Code Space": "CS 125",
         "Course Title": "Introduction to Computer Science",
         "Prerequisites": [
-            [
-                "MATH 112"
-            ]
+            "MATH 112"
         ]
     },
     "CS 126": {
@@ -62,9 +54,7 @@
         "Course Code Space": "CS 126",
         "Course Title": "Software Design Studio",
         "Prerequisites": [
-            [
-                "Intro to CS I"
-            ]
+            "Intro to CS I"
         ]
     },
     "CS 128": {
@@ -72,9 +62,7 @@
         "Course Code Space": "CS 128",
         "Course Title": "Introduction to Computer Science II",
         "Prerequisites": [
-            [
-                "Intro to CS I"
-            ]
+            "Intro to CS I"
         ]
     },
     "CS 173": {
@@ -82,12 +70,8 @@
         "Course Code Space": "CS 173",
         "Course Title": "Discrete Structures",
         "Prerequisites": [
-            [
-                "Intro to CS I"
-            ],
-            [
-                "Calculus I"
-            ]
+            "Intro to CS I",
+            "Calculus I"
         ]
     },
     "CS 196": {
@@ -107,9 +91,7 @@
         "Course Code Space": "CS 210",
         "Course Title": "Ethical & Professional Issues",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 211": {
@@ -117,9 +99,7 @@
         "Course Code Space": "CS 211",
         "Course Title": "Ethical and Professional Conduct",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 222": {
@@ -127,12 +107,8 @@
         "Course Code Space": "CS 222",
         "Course Title": "Software Design Lab",
         "Prerequisites": [
-            [
-                "CS 128"
-            ],
-            [
-                "Data Structures"
-            ]
+            "CS 128",
+            "Data Structures"
         ]
     },
     "CS 225": {
@@ -140,12 +116,8 @@
         "Course Code Space": "CS 225",
         "Course Title": "Data Structures",
         "Prerequisites": [
-            [
-                "Intro to CS II"
-            ],
-            [
-                "Data Structures"
-            ]
+            "Intro to CS II",
+            "Data Structures"
         ]
     },
     "CS 233": {
@@ -153,12 +125,8 @@
         "Course Code Space": "CS 233",
         "Course Title": "Computer Architecture",
         "Prerequisites": [
-            [
-                "Intro to CS I"
-            ],
-            [
-                "Data Structures"
-            ]
+            "Intro to CS I",
+            "Data Structures"
         ]
     },
     "CS 242": {
@@ -166,9 +134,7 @@
         "Course Code Space": "CS 242",
         "Course Title": "Programming Studio",
         "Prerequisites": [
-            [
-                "CS 241"
-            ]
+            "CS 241"
         ]
     },
     "CS 265": {
@@ -188,12 +154,8 @@
         "Course Code Space": "CS 277",
         "Course Title": "Algorithms and Data Structures for Data Science",
         "Prerequisites": [
-            [
-                "STAT 207"
-            ],
-            [
-                "Calculus I"
-            ]
+            "STAT 207",
+            "Calculus I"
         ]
     },
     "CS 296": {
@@ -207,12 +169,8 @@
         "Course Code Space": "CS 307",
         "Course Title": "Modeling and Learning in Data Science",
         "Prerequisites": [
-            [
-                "STAT 207"
-            ],
-            [
-                "Linear Algebra"
-            ]
+            "STAT 207",
+            "Linear Algebra"
         ]
     },
     "CS 340": {
@@ -220,12 +178,8 @@
         "Course Code Space": "CS 340",
         "Course Title": "Introduction to Computer Systems",
         "Prerequisites": [
-            [
-                "CS 128"
-            ],
-            [
-                "Data Structures"
-            ]
+            "CS 128",
+            "Data Structures"
         ]
     },
     "CS 341": {
@@ -233,12 +187,8 @@
         "Course Code Space": "CS 341",
         "Course Title": "System Programming",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "CS 233"
-            ]
+            "Data Structures",
+            "CS 233"
         ]
     },
     "CS 357": {
@@ -246,15 +196,9 @@
         "Course Code Space": "CS 357",
         "Course Title": "Numerical Methods I",
         "Prerequisites": [
-            [
-                "Intro to CS I"
-            ],
-            [
-                "MATH 241"
-            ],
-            [
-                "Linear Algebra"
-            ]
+            "Intro to CS I",
+            "MATH 241",
+            "Linear Algebra"
         ]
     },
     "CS 361": {
@@ -262,12 +206,8 @@
         "Course Code Space": "CS 361",
         "Course Title": "Probability & Statistics for Computer Science",
         "Prerequisites": [
-            [
-                "Calculus I"
-            ],
-            [
-                "Linear Algebra"
-            ]
+            "Calculus I",
+            "Linear Algebra"
         ]
     },
     "CS 374": {
@@ -275,9 +215,7 @@
         "Course Code Space": "CS 374",
         "Course Title": "Introduction to Algorithms & Models of Computation",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 397": {
@@ -309,9 +247,7 @@
         "Course Code Space": "CS 402",
         "Course Title": "Accelerated Fundamentals of Computing II",
         "Prerequisites": [
-            [
-                "CS 400"
-            ]
+            "CS 400"
         ]
     },
     "CS 403": {
@@ -319,9 +255,7 @@
         "Course Code Space": "CS 403",
         "Course Title": "Accelerated Fundamentals of Algorithms II",
         "Prerequisites": [
-            [
-                "CS 401"
-            ]
+            "CS 401"
         ]
     },
     "CS 407": {
@@ -329,9 +263,7 @@
         "Course Code Space": "CS 407",
         "Course Title": "Cryptography",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 409": {
@@ -339,9 +271,7 @@
         "Course Code Space": "CS 409",
         "Course Title": "The Art of Web Programming",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 410": {
@@ -349,9 +279,7 @@
         "Course Code Space": "CS 410",
         "Course Title": "Text Information Systems",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 411": {
@@ -359,9 +287,7 @@
         "Course Code Space": "CS 411",
         "Course Title": "Database Systems",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 412": {
@@ -369,9 +295,7 @@
         "Course Code Space": "CS 412",
         "Course Title": "Introduction to Data Mining",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 413": {
@@ -379,9 +303,7 @@
         "Course Code Space": "CS 413",
         "Course Title": "Intro to Combinatorics",
         "Prerequisites": [
-            [
-                "MATH 314"
-            ]
+            "MATH 314"
         ]
     },
     "CS 414": {
@@ -389,9 +311,7 @@
         "Course Code Space": "CS 414",
         "Course Title": "Multimedia Systems",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 415": {
@@ -399,9 +319,7 @@
         "Course Code Space": "CS 415",
         "Course Title": "Game Development",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 416": {
@@ -409,9 +327,7 @@
         "Course Code Space": "CS 416",
         "Course Title": "Data Visualization",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 417": {
@@ -419,9 +335,7 @@
         "Course Code Space": "CS 417",
         "Course Title": "Virtual Reality",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 418": {
@@ -429,15 +343,9 @@
         "Course Code Space": "CS 418",
         "Course Title": "Interactive Computer Graphics",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "Linear Algebra"
-            ],
-            [
-                "MATH 241"
-            ]
+            "Data Structures",
+            "Linear Algebra",
+            "MATH 241"
         ]
     },
     "CS 419": {
@@ -445,9 +353,7 @@
         "Course Code Space": "CS 419",
         "Course Title": "Production Computer Graphics",
         "Prerequisites": [
-            [
-                "CS 418"
-            ]
+            "CS 418"
         ]
     },
     "CS 420": {
@@ -455,9 +361,7 @@
         "Course Code Space": "CS 420",
         "Course Title": "Parallel Progrmg: Sci & Engrg",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 421": {
@@ -465,15 +369,9 @@
         "Course Code Space": "CS 421",
         "Course Title": "Programming Languages & Compilers",
         "Prerequisites": [
-            [
-                "CS 233"
-            ],
-            [
-                "CS 374"
-            ],
-            [
-                "Linear Algebra"
-            ]
+            "CS 233",
+            "CS 374",
+            "Linear Algebra"
         ]
     },
     "CS 422": {
@@ -481,9 +379,7 @@
         "Course Code Space": "CS 422",
         "Course Title": "Programming Language Design",
         "Prerequisites": [
-            [
-                "CS 421"
-            ]
+            "CS 421"
         ]
     },
     "CS 423": {
@@ -491,9 +387,7 @@
         "Course Code Space": "CS 423",
         "Course Title": "Operating Systems Design",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 424": {
@@ -501,9 +395,7 @@
         "Course Code Space": "CS 424",
         "Course Title": "Real-Time Systems",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 425": {
@@ -511,9 +403,7 @@
         "Course Code Space": "CS 425",
         "Course Title": "Distributed Systems",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 426": {
@@ -521,9 +411,7 @@
         "Course Code Space": "CS 426",
         "Course Title": "Compiler Construction",
         "Prerequisites": [
-            [
-                "CS 421"
-            ]
+            "CS 421"
         ]
     },
     "CS 427": {
@@ -531,9 +419,7 @@
         "Course Code Space": "CS 427",
         "Course Title": "Software Engineering I",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 428": {
@@ -541,9 +427,7 @@
         "Course Code Space": "CS 428",
         "Course Title": "Software Engineering II",
         "Prerequisites": [
-            [
-                "CS 427"
-            ]
+            "CS 427"
         ]
     },
     "CS 429": {
@@ -551,9 +435,7 @@
         "Course Code Space": "CS 429",
         "Course Title": "Software Engineering II, ACP",
         "Prerequisites": [
-            [
-                "CS 427"
-            ]
+            "CS 427"
         ]
     },
     "CS 431": {
@@ -561,9 +443,7 @@
         "Course Code Space": "CS 431",
         "Course Title": "Embedded Systems",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 433": {
@@ -571,9 +451,7 @@
         "Course Code Space": "CS 433",
         "Course Title": "Computer System Organization",
         "Prerequisites": [
-            [
-                "CS 233"
-            ]
+            "CS 233"
         ]
     },
     "CS 434": {
@@ -581,9 +459,7 @@
         "Course Code Space": "CS 434",
         "Course Title": "Real World Algorithms for IoT and Data Science",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 435": {
@@ -591,9 +467,7 @@
         "Course Code Space": "CS 435",
         "Course Title": "Cloud Networking",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 436": {
@@ -601,9 +475,7 @@
         "Course Code Space": "CS 436",
         "Course Title": "Computer Networking Laboratory",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 437": {
@@ -611,9 +483,7 @@
         "Course Code Space": "CS 437",
         "Course Title": "Topics in Internet of Things",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 438": {
@@ -621,12 +491,8 @@
         "Course Code Space": "CS 438",
         "Course Title": "Communication Networks",
         "Prerequisites": [
-            [
-                "CS 341"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "CS 341",
+            "Probability & Statistics"
         ]
     },
     "CS 439": {
@@ -634,15 +500,9 @@
         "Course Code Space": "CS 439",
         "Course Title": "Wireless Networks",
         "Prerequisites": [
-            [
-                "ECE 391"
-            ],
-            [
-                "CS 341"
-            ],
-            [
-                "MATH 461"
-            ]
+            "ECE 391",
+            "CS 341",
+            "MATH 461"
         ]
     },
     "CS 440": {
@@ -650,12 +510,8 @@
         "Course Code Space": "CS 440",
         "Course Title": "Artificial Intelligence",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "Data Structures",
+            "Probability & Statistics"
         ]
     },
     "CS 441": {
@@ -663,12 +519,8 @@
         "Course Code Space": "CS 441",
         "Course Title": "Applied Machine Learning",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "Data Structures",
+            "Probability & Statistics"
         ]
     },
     "CS 442": {
@@ -676,15 +528,9 @@
         "Course Code Space": "CS 442",
         "Course Title": "Trustworthy Machine Learning",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "CS 446"
-            ],
-            [
-                "Linear Algebra"
-            ]
+            "Data Structures",
+            "CS 446",
+            "Linear Algebra"
         ]
     },
     "CS 443": {
@@ -692,18 +538,10 @@
         "Course Code Space": "CS 443",
         "Course Title": "Reinforcement Learning",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "MATH 241"
-            ],
-            [
-                "Linear Algebra"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "Data Structures",
+            "MATH 241",
+            "Linear Algebra",
+            "Probability & Statistics"
         ]
     },
     "CS 444": {
@@ -711,18 +549,10 @@
         "Course Code Space": "CS 444",
         "Course Title": "Deep Learning for Computer Vision",
         "Prerequisites": [
-            [
-                "MATH 241"
-            ],
-            [
-                "Linear Algebra"
-            ],
-            [
-                "Data Structures"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "MATH 241",
+            "Linear Algebra",
+            "Data Structures",
+            "Probability & Statistics"
         ]
     },
     "CS 445": {
@@ -730,12 +560,8 @@
         "Course Code Space": "CS 445",
         "Course Title": "Computational Photography",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "MATH 231"
-            ]
+            "Data Structures",
+            "MATH 231"
         ]
     },
     "CS 446": {
@@ -743,15 +569,9 @@
         "Course Code Space": "CS 446",
         "Course Title": "Machine Learning",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "Linear Algebra"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "Data Structures",
+            "Linear Algebra",
+            "Probability & Statistics"
         ]
     },
     "CS 447": {
@@ -759,18 +579,10 @@
         "Course Code Space": "CS 447",
         "Course Title": "Natural Language Processing",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "CS 374"
-            ],
-            [
-                "Probability & Statistics"
-            ],
-            [
-                "Linear Algebra"
-            ]
+            "Data Structures",
+            "CS 374",
+            "Probability & Statistics",
+            "Linear Algebra"
         ]
     },
     "CS 448": {
@@ -778,12 +590,8 @@
         "Course Code Space": "CS 448",
         "Course Title": "Audio Computing Laboratory",
         "Prerequisites": [
-            [
-                "CS 341"
-            ],
-            [
-                "Linear Algebra"
-            ]
+            "CS 341",
+            "Linear Algebra"
         ]
     },
     "CS 450": {
@@ -791,15 +599,9 @@
         "Course Code Space": "CS 450",
         "Course Title": "Numerical Analysis",
         "Prerequisites": [
-            [
-                "Intro to CS I"
-            ],
-            [
-                "Linear Algebra"
-            ],
-            [
-                "MATH 285"
-            ]
+            "Intro to CS I",
+            "Linear Algebra",
+            "MATH 285"
         ]
     },
     "CS 452": {
@@ -807,15 +609,9 @@
         "Course Code Space": "CS 452",
         "Course Title": "Topics in Robotics",
         "Prerequisites": [
-            [
-                "CS 128"
-            ],
-            [
-                "Data Structures"
-            ],
-            [
-                "CS 341"
-            ]
+            "CS 128",
+            "Data Structures",
+            "CS 341"
         ]
     },
     "CS 460": {
@@ -823,12 +619,8 @@
         "Course Code Space": "CS 460",
         "Course Title": "Security Laboratory",
         "Prerequisites": [
-            [
-                "CS 461"
-            ],
-            [
-                "CS 341"
-            ]
+            "CS 461",
+            "CS 341"
         ]
     },
     "CS 461": {
@@ -836,12 +628,8 @@
         "Course Code Space": "CS 461",
         "Course Title": "Computer Security I",
         "Prerequisites": [
-            [
-                "CS 341"
-            ],
-            [
-                "CS 340"
-            ]
+            "CS 341",
+            "CS 340"
         ]
     },
     "CS 462": {
@@ -849,9 +637,7 @@
         "Course Code Space": "CS 462",
         "Course Title": "Issues of Law and Policy in Computer Science",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 463": {
@@ -859,12 +645,8 @@
         "Course Code Space": "CS 463",
         "Course Title": "Computer Security II",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "Data Structures",
+            "Probability & Statistics"
         ]
     },
     "CS 464": {
@@ -872,9 +654,7 @@
         "Course Code Space": "CS 464",
         "Course Title": "Topics in Societal and Ethical Impacts of Computer Technology",
         "Prerequisites": [
-            [
-                "Probability & Statistics"
-            ]
+            "Probability & Statistics"
         ]
     },
     "CS 465": {
@@ -882,9 +662,7 @@
         "Course Code Space": "CS 465",
         "Course Title": "User Interface Design",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 466": {
@@ -892,9 +670,7 @@
         "Course Code Space": "CS 466",
         "Course Title": "Introduction to Bioinformatics",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 467": {
@@ -902,9 +678,7 @@
         "Course Code Space": "CS 467",
         "Course Title": "Social Visualization",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 468": {
@@ -912,9 +686,7 @@
         "Course Code Space": "CS 468",
         "Course Title": "Tech and Advertising Campaigns",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 469": {
@@ -922,15 +694,9 @@
         "Course Code Space": "CS 469",
         "Course Title": "Computational Advertising Infrastructure",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "Linear Algebra"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "Data Structures",
+            "Linear Algebra",
+            "Probability & Statistics"
         ]
     },
     "CS 470": {
@@ -938,15 +704,9 @@
         "Course Code Space": "CS 470",
         "Course Title": "Social and Information Networks",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "Probability & Statistics"
-            ],
-            [
-                "Linear Algebra"
-            ]
+            "Data Structures",
+            "Probability & Statistics",
+            "Linear Algebra"
         ]
     },
     "CS 473": {
@@ -954,12 +714,8 @@
         "Course Code Space": "CS 473",
         "Course Title": "Algorithms",
         "Prerequisites": [
-            [
-                "CS 374"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "CS 374",
+            "Probability & Statistics"
         ]
     },
     "CS 474": {
@@ -967,12 +723,8 @@
         "Course Code Space": "CS 474",
         "Course Title": "Logic in Computer Science",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "CS 374"
-            ]
+            "Data Structures",
+            "CS 374"
         ]
     },
     "CS 475": {
@@ -980,9 +732,7 @@
         "Course Code Space": "CS 475",
         "Course Title": "Formal Models of Computation",
         "Prerequisites": [
-            [
-                "CS 374"
-            ]
+            "CS 374"
         ]
     },
     "CS 476": {
@@ -990,12 +740,8 @@
         "Course Code Space": "CS 476",
         "Course Title": "Program Verification",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "CS 374"
-            ]
+            "Data Structures",
+            "CS 374"
         ]
     },
     "CS 477": {
@@ -1003,12 +749,8 @@
         "Course Code Space": "CS 477",
         "Course Title": "Formal Software Development Methods",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ],
-            [
-                "CS 374"
-            ]
+            "Data Structures",
+            "CS 374"
         ]
     },
     "CS 481": {
@@ -1016,9 +758,7 @@
         "Course Code Space": "CS 481",
         "Course Title": "Advanced Topics in Stochastic Processes & Applications",
         "Prerequisites": [
-            [
-                "IE 310"
-            ]
+            "IE 310"
         ]
     },
     "CS 482": {
@@ -1026,12 +766,8 @@
         "Course Code Space": "CS 482",
         "Course Title": "Simulation",
         "Prerequisites": [
-            [
-                "CS 101"
-            ],
-            [
-                "IE 310"
-            ]
+            "CS 101",
+            "IE 310"
         ]
     },
     "CS 483": {
@@ -1045,9 +781,7 @@
         "Course Code Space": "CS 484",
         "Course Title": "Parallel Programming",
         "Prerequisites": [
-            [
-                "CS 341"
-            ]
+            "CS 341"
         ]
     },
     "CS 491": {
@@ -1067,9 +801,7 @@
         "Course Code Space": "CS 493",
         "Course Title": "Senior Project II, ACP",
         "Prerequisites": [
-            [
-                "CS 492"
-            ]
+            "CS 492"
         ]
     },
     "CS 494": {
@@ -1077,9 +809,7 @@
         "Course Code Space": "CS 494",
         "Course Title": "Senior Project II",
         "Prerequisites": [
-            [
-                "CS 492"
-            ]
+            "CS 492"
         ]
     },
     "CS 497": {
@@ -1117,9 +847,7 @@
         "Course Code Space": "CS 508",
         "Course Title": "Manycore Parallel Algorithms",
         "Prerequisites": [
-            [
-                "CS 420"
-            ]
+            "CS 420"
         ]
     },
     "CS 510": {
@@ -1127,9 +855,7 @@
         "Course Code Space": "CS 510",
         "Course Title": "Advanced Information Retrieval",
         "Prerequisites": [
-            [
-                "CS 446"
-            ]
+            "CS 446"
         ]
     },
     "CS 511": {
@@ -1137,9 +863,7 @@
         "Course Code Space": "CS 511",
         "Course Title": "Advanced Data Management",
         "Prerequisites": [
-            [
-                "CS 411"
-            ]
+            "CS 411"
         ]
     },
     "CS 512": {
@@ -1147,9 +871,7 @@
         "Course Code Space": "CS 512",
         "Course Title": "Data Mining Principles",
         "Prerequisites": [
-            [
-                "CS 412"
-            ]
+            "CS 412"
         ]
     },
     "CS 513": {
@@ -1163,12 +885,8 @@
         "Course Code Space": "CS 514",
         "Course Title": "Advanced Topics in Network Science",
         "Prerequisites": [
-            [
-                "CS 412"
-            ],
-            [
-                "CS 446"
-            ]
+            "CS 412",
+            "CS 446"
         ]
     },
     "CS 519": {
@@ -1176,9 +894,7 @@
         "Course Code Space": "CS 519",
         "Course Title": "Scientific Visualization",
         "Prerequisites": [
-            [
-                "CS 418"
-            ]
+            "CS 418"
         ]
     },
     "CS 521": {
@@ -1186,12 +902,8 @@
         "Course Code Space": "CS 521",
         "Course Title": "Advanced Topics in Programming Systems",
         "Prerequisites": [
-            [
-                "CS 374"
-            ],
-            [
-                "CS 421"
-            ]
+            "CS 374",
+            "CS 421"
         ]
     },
     "CS 522": {
@@ -1199,12 +911,8 @@
         "Course Code Space": "CS 522",
         "Course Title": "Programming Language Semantics",
         "Prerequisites": [
-            [
-                "CS 422"
-            ],
-            [
-                "CS 426"
-            ]
+            "CS 422",
+            "CS 426"
         ]
     },
     "CS 523": {
@@ -1212,15 +920,9 @@
         "Course Code Space": "CS 523",
         "Course Title": "Advanced Operating Systems",
         "Prerequisites": [
-            [
-                "CS 423"
-            ],
-            [
-                "CS 425"
-            ],
-            [
-                "CS 433"
-            ]
+            "CS 423",
+            "CS 425",
+            "CS 433"
         ]
     },
     "CS 524": {
@@ -1228,12 +930,8 @@
         "Course Code Space": "CS 524",
         "Course Title": "Concurrent Progrmg Languages",
         "Prerequisites": [
-            [
-                "CS 422"
-            ],
-            [
-                "CS 475"
-            ]
+            "CS 422",
+            "CS 475"
         ]
     },
     "CS 525": {
@@ -1241,9 +939,7 @@
         "Course Code Space": "CS 525",
         "Course Title": "Advanced Distributed Systems",
         "Prerequisites": [
-            [
-                "CS 438"
-            ]
+            "CS 438"
         ]
     },
     "CS 526": {
@@ -1251,9 +947,7 @@
         "Course Code Space": "CS 526",
         "Course Title": "Advanced Compiler Construction",
         "Prerequisites": [
-            [
-                "CS 426"
-            ]
+            "CS 426"
         ]
     },
     "CS 527": {
@@ -1261,9 +955,7 @@
         "Course Code Space": "CS 527",
         "Course Title": "Topics in Software Engineering",
         "Prerequisites": [
-            [
-                "CS 428"
-            ]
+            "CS 428"
         ]
     },
     "CS 533": {
@@ -1271,9 +963,7 @@
         "Course Code Space": "CS 533",
         "Course Title": "Parallel Computer Architecture",
         "Prerequisites": [
-            [
-                "CS 433"
-            ]
+            "CS 433"
         ]
     },
     "CS 534": {
@@ -1281,9 +971,7 @@
         "Course Code Space": "CS 534",
         "Course Title": "Advanced Topics in Computer Architecture",
         "Prerequisites": [
-            [
-                "CS 433"
-            ]
+            "CS 433"
         ]
     },
     "CS 536": {
@@ -1291,9 +979,7 @@
         "Course Code Space": "CS 536",
         "Course Title": "Fault-Tolerant Dig Syst Design",
         "Prerequisites": [
-            [
-                "ECE 411"
-            ]
+            "ECE 411"
         ]
     },
     "CS 537": {
@@ -1301,12 +987,8 @@
         "Course Code Space": "CS 537",
         "Course Title": "Advanced Topics in Internet of Things (IoT)",
         "Prerequisites": [
-            [
-                "CS 425"
-            ],
-            [
-                "CS 438"
-            ]
+            "CS 425",
+            "CS 438"
         ]
     },
     "CS 538": {
@@ -1314,9 +996,7 @@
         "Course Code Space": "CS 538",
         "Course Title": "Advanced Computer Networks",
         "Prerequisites": [
-            [
-                "CS 438"
-            ]
+            "CS 438"
         ]
     },
     "CS 539": {
@@ -1324,9 +1004,7 @@
         "Course Code Space": "CS 539",
         "Course Title": "Distributed Algorithms",
         "Prerequisites": [
-            [
-                "CS 473"
-            ]
+            "CS 473"
         ]
     },
     "CS 540": {
@@ -1340,9 +1018,7 @@
         "Course Code Space": "CS 541",
         "Course Title": "Computer Systems Analysis",
         "Prerequisites": [
-            [
-                "MATH 461"
-            ]
+            "MATH 461"
         ]
     },
     "CS 542": {
@@ -1356,9 +1032,7 @@
         "Course Code Space": "CS 543",
         "Course Title": "Computer Vision",
         "Prerequisites": [
-            [
-                "Data Structures"
-            ]
+            "Data Structures"
         ]
     },
     "CS 544": {
@@ -1366,12 +1040,8 @@
         "Course Code Space": "CS 544",
         "Course Title": "Optimiz in Computer Vision",
         "Prerequisites": [
-            [
-                "CS 450"
-            ],
-            [
-                "CS 473"
-            ]
+            "CS 450",
+            "CS 473"
         ]
     },
     "CS 545": {
@@ -1379,12 +1049,8 @@
         "Course Code Space": "CS 545",
         "Course Title": "Machine Learning for Signal Processing",
         "Prerequisites": [
-            [
-                "Linear Algebra"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "Linear Algebra",
+            "Probability & Statistics"
         ]
     },
     "CS 546": {
@@ -1392,12 +1058,8 @@
         "Course Code Space": "CS 546",
         "Course Title": "Advanced Topics in Natural Language Processing",
         "Prerequisites": [
-            [
-                "CS 447"
-            ],
-            [
-                "CS 446"
-            ]
+            "CS 447",
+            "CS 446"
         ]
     },
     "CS 547": {
@@ -1405,9 +1067,7 @@
         "Course Code Space": "CS 547",
         "Course Title": "Deep Learning",
         "Prerequisites": [
-            [
-                "CS 446"
-            ]
+            "CS 446"
         ]
     },
     "CS 549": {
@@ -1421,9 +1081,7 @@
         "Course Code Space": "CS 554",
         "Course Title": "Parallel Numerical Algorithms",
         "Prerequisites": [
-            [
-                "CS 450"
-            ]
+            "CS 450"
         ]
     },
     "CS 555": {
@@ -1431,9 +1089,7 @@
         "Course Code Space": "CS 555",
         "Course Title": "Numerical Methods for PDEs",
         "Prerequisites": [
-            [
-                "CS 450"
-            ]
+            "CS 450"
         ]
     },
     "CS 556": {
@@ -1453,12 +1109,8 @@
         "Course Code Space": "CS 562",
         "Course Title": "Advanced Topics in Security, Privacy, and Machine Learning",
         "Prerequisites": [
-            [
-                "CS 446"
-            ],
-            [
-                "CS 463"
-            ]
+            "CS 446",
+            "CS 463"
         ]
     },
     "CS 563": {
@@ -1466,9 +1118,7 @@
         "Course Code Space": "CS 563",
         "Course Title": "Advanced Computer Security",
         "Prerequisites": [
-            [
-                "CS 461"
-            ]
+            "CS 461"
         ]
     },
     "CS 565": {
@@ -1476,9 +1126,7 @@
         "Course Code Space": "CS 565",
         "Course Title": "Human-Computer Interaction",
         "Prerequisites": [
-            [
-                "CS 465"
-            ]
+            "CS 465"
         ]
     },
     "CS 567": {
@@ -1486,9 +1134,7 @@
         "Course Code Space": "CS 567",
         "Course Title": "Social Signals and Social Media",
         "Prerequisites": [
-            [
-                "CS 465"
-            ]
+            "CS 465"
         ]
     },
     "CS 568": {
@@ -1496,9 +1142,7 @@
         "Course Code Space": "CS 568",
         "Course Title": "User-Centered Machine Learning",
         "Prerequisites": [
-            [
-                "CS 465"
-            ]
+            "CS 465"
         ]
     },
     "CS 571": {
@@ -1512,9 +1156,7 @@
         "Course Code Space": "CS 572",
         "Course Title": "Extremal Graph Theory",
         "Prerequisites": [
-            [
-                "MATH 580"
-            ]
+            "MATH 580"
         ]
     },
     "CS 574": {
@@ -1522,12 +1164,8 @@
         "Course Code Space": "CS 574",
         "Course Title": "Randomized Algorithms",
         "Prerequisites": [
-            [
-                "CS 473"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "CS 473",
+            "Probability & Statistics"
         ]
     },
     "CS 575": {
@@ -1535,9 +1173,7 @@
         "Course Code Space": "CS 575",
         "Course Title": "Methods of Combinatorics",
         "Prerequisites": [
-            [
-                "MATH 580"
-            ]
+            "MATH 580"
         ]
     },
     "CS 576": {
@@ -1551,9 +1187,7 @@
         "Course Code Space": "CS 579",
         "Course Title": "Computational Complexity",
         "Prerequisites": [
-            [
-                "CS 475"
-            ]
+            "CS 475"
         ]
     },
     "CS 580": {
@@ -1561,9 +1195,7 @@
         "Course Code Space": "CS 580",
         "Course Title": "Topics in Algorithmic Game Theory",
         "Prerequisites": [
-            [
-                "CS 473"
-            ]
+            "CS 473"
         ]
     },
     "CS 581": {
@@ -1571,12 +1203,8 @@
         "Course Code Space": "CS 581",
         "Course Title": "Algorithmic Genomic Biology",
         "Prerequisites": [
-            [
-                "CS 374"
-            ],
-            [
-                "Probability & Statistics"
-            ]
+            "CS 374",
+            "Probability & Statistics"
         ]
     },
     "CS 582": {
@@ -1584,12 +1212,8 @@
         "Course Code Space": "CS 582",
         "Course Title": "Machine Learning for Bioinformatics",
         "Prerequisites": [
-            [
-                "CS 446"
-            ],
-            [
-                "CS 466"
-            ]
+            "CS 446",
+            "CS 466"
         ]
     },
     "CS 583": {
@@ -1597,12 +1221,8 @@
         "Course Code Space": "CS 583",
         "Course Title": "Approximation Algorithms",
         "Prerequisites": [
-            [
-                "CS 573"
-            ],
-            [
-                "CSE 515"
-            ]
+            "CS 573",
+            "CSE 515"
         ]
     },
     "CS 584": {
@@ -1610,9 +1230,7 @@
         "Course Code Space": "CS 584",
         "Course Title": "Embedded System Verification",
         "Prerequisites": [
-            [
-                "MATH 257"
-            ]
+            "MATH 257"
         ]
     },
     "CS 585": {
@@ -1626,15 +1244,9 @@
         "Course Code Space": "CS 586",
         "Course Title": "Combinatorial Optimization",
         "Prerequisites": [
-            [
-                "IE 411"
-            ],
-            [
-                "CS 374"
-            ],
-            [
-                "MATH 412"
-            ]
+            "IE 411",
+            "CS 374",
+            "MATH 412"
         ]
     },
     "CS 588": {
@@ -1642,15 +1254,8 @@
         "Course Code Space": "CS 588",
         "Course Title": "Autonomous Vehicle System Engineering",
         "Prerequisites": [
-            [
-                "CS 374"
-            ],
-            [
-                "ECE 374"
-            ],
-            [
-                "ECE 484"
-            ]
+            "CS 374",
+            "ECE 484"
         ]
     },
     "CS 591": {
