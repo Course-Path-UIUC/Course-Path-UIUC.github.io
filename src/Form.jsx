@@ -12,9 +12,10 @@ const Form = () => {
 
     const formData = new FormData(event.target);
 
-    setSelectedCourses(formData.getAll('course-select'))
-
-    // @TODO Send formData.getAll('course-select') to Kahn's algorithm
+    // Send the strings with course codes to the Output component
+    setSelectedCourses(
+      formData.getAll('course-select').map(c => DATA.default[c])
+    );
   };
 
   // Cleaned up course list, starting from CS 400.

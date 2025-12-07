@@ -1,3 +1,4 @@
+import sortCoursesWithKahns from './kahns.js';
 
 const Output = ({ selectedCourses }) => {
   const CHIP_BASE_CLASSES = [
@@ -11,11 +12,15 @@ const Output = ({ selectedCourses }) => {
     'text-blue-800',
     'dark:text-white',
     'dark:bg-blue-900',
-  ]
+  ];
 
-  const listItems = selectedCourses.map(course =>
-    // course is a string with the department prefix and course number.
-    <li key={course} className={CHIP_BASE_CLASSES.join(' ')}>{course}</li>
+  const sortedCourses = sortCoursesWithKahns(selectedCourses);
+
+  const listItems = sortedCourses.map(course =>
+    <li
+      key={course['Course Code Space']}
+      className={CHIP_BASE_CLASSES.join(' ')}
+    >{course['Course Code Space']}</li>
   );
 
   return (
