@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import CourseSelector from './CourseSelector';
 import Output from './Output';
-import MOCK from './mock-data.js';
+import * as DATA from '../data.json';
 
 const Form = () => {
   const [selectedCourses, setSelectedCourses] = useState([]);
@@ -17,6 +17,19 @@ const Form = () => {
     // @TODO Send formData.getAll('course-select') to Kahn's algorithm
   };
 
+  // Cleaned up course list, starting from CS 400.
+  const GRAD_COURSES = Object.values(DATA.default).filter(
+    i => i['Course Code Space'].split(' ')[1] >= 400
+  );
+
+  const SELECT_OPTIONS = GRAD_COURSES.map(
+    c => ({
+      value: c['Course Code Space'],
+      label: `${c['Course Code Space']} ${c['Course Title']}`
+    })
+  );
+
+  // Submit button classes
   const BTN_CLASSES = [
     'mt-2',
     'mb-6',
@@ -38,9 +51,7 @@ const Form = () => {
 
   return (
     <form onSubmit={handleSubmit}>
-      <CourseSelector
-        courses={MOCK.map(c => ({ value: c.id, label: `${c.id} ${c.name}` }))}
-      />
+      <CourseSelector courses={SELECT_OPTIONS} />
       <button id='submit' type='submit' className={BTN_CLASSES.join(' ')}>Submit</button>
       <Output selectedCourses={selectedCourses} />
     </form>
